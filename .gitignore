@@ -1,5 +1,11 @@
-# Data (it's too big)
+# data (it's too big)
 creditcard.csv
 
 # idea
 *.idea/
+
+# virtual environment
+.venv/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
